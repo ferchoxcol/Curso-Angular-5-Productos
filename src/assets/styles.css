@@ -52,3 +52,11 @@
     border-top:1px solid #eee;
     color:gray;
 }
+#main .jumbotron{
+    padding: 25px;
+    margin-top:30px;
+    border-radius: 5px;
+}
+#main{
+    margin:10px 0px 10px 60px;
+}
