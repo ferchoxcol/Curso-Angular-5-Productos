@@ -58,5 +58,9 @@
     border-radius: 5px;
 }
 #main{
-    margin:10px 0px 10px 60px;
+    margin:10px 0px 10px 0px;
 }
+.activado {
+    text-decoration: none!important;
+    border-bottom: 2px solid yellow;
+ }
