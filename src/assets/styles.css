@@ -64,3 +64,8 @@
     text-decoration: none!important;
     border-bottom: 2px solid yellow;
  }
+ #form-producto label {
+     margin-top: 20px;
+     font-weight: bold;
+ }
+ 
